@@ -1,4 +1,3 @@
-# Version of docker compose needs to matc the docker engine you are using. Check https://docs.docker.com/compose/compose-file/compose-versioning/ for info
 version: '3'
 networks:
     dbnet:
